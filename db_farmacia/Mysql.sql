@@ -1,0 +1,1 @@
+SELECT * FROM blog_pessoal.tb_usuario;
